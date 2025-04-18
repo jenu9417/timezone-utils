@@ -33,4 +33,4 @@ COPY .env .
 # Expose port (default from .env or fallback)
 EXPOSE 8080
 
-CMD ["./timezone-api"]
+CMD ["./timezone-utils"]
